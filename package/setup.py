@@ -29,7 +29,7 @@ setup(
         "moviepy",
         "networkx",
         "MDAnalysis",
-        "emlp==1.0.2",
+        "emlp==1.0.3",
         "tensorflow-probability",
         "dm-haiku",
         "selfies",
